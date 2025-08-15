@@ -2,8 +2,8 @@ streamlit
 pandas
 numpy
 yfinance
-tweepy
 textblob
 vaderSentiment
 python-dotenv
 plotly
+newsapi-python
